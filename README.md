@@ -41,8 +41,6 @@ A machine learning project to predict whether a customer will default on their c
 
 ## 📸 Sample Visuals
 
-(Add screenshots from your notebook if you want)
-
 ---
 
 ## 🔗 How to Run
